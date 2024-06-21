@@ -1,5 +1,5 @@
 # SYM Driving School
-Developed a Spring Boot group project for SYM Driving, a driving school management system designed to oversee student lessons and instructor schedules.<br>
+Developed a Spring Boot group project for SYM Driving, a driving school management system designed to oversee student lessons and instructor schedules.<br><br>
 SYM Driving utilizes Spring Security for user authentication and a front-end website for user interaction and displaying information to prospective students. The project features Java-based endpoints for back-end operations and uses a PostgreSQL database for data management. It includes a form for prospective students that integrates the OpenMaps API to enhance the user experience with geolocation features. Additionally, the system incorporates a mailing system to send confirmation emails and notifications.<br>
 
 Authors: <br>
